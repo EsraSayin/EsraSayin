@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! &#128587;
 
 
 - &#128187; I’m currently working on Javascript and NodeJs.
