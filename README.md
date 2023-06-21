@@ -1,8 +1,8 @@
 ### Hi there! &#128587;
 
 
-- &#128187; I’m currently working on Javascript and NodeJs.
-- 🌱 I’m currently learning React.
+- &#128187; I’m currently working on ReactJs and NodeJs.
+- 🌱 I’m currently learning React Native.
 - &#128233; sayin.esra@yandex.com
 
 <img align="right" height="320rem" width="320rem" alt="GIF" src="https://cloudrun.co.uk/wp-content/uploads/2021/01/cat.png" />
