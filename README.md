@@ -1,7 +1,7 @@
 ### Hi there! &#128587;
 
 
-- &#128187; I’m currently working on ReactJs and NodeJs.
+- &#128187; I’m currently working on ReactJs and Typescript.
 - 🌱 I’m currently learning React Native.
 - &#128233; sayin.esra@yandex.com
 
